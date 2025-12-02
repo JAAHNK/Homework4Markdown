@@ -18,5 +18,11 @@ Making **Markdown** Pages *on* GitHub!
 - **Code blocks**
 - **Blockquotes**
 
----
+#### Heres some code in python:
+
+```python
+for i in range(4):
+    print("hello world!")
+```
+   
 ---
